@@ -4,7 +4,7 @@
 
 	<test name="Login to application">
 		<classes>
-			<class name="com.demo.datadriven.LoginToApp"></class>
+			<class name="com.demo.datadriven.LoginToAppExcel"></class>
 		</classes>
 	</test>
 </suite>
